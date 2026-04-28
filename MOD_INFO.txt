@@ -1,0 +1,58 @@
+The Undub Mod (Dub Names) v1.0 by saintfrac
+
+==================================================
+Based on the Un-Dub Mod by omegalucas and DCSUndubModMod by Maverynthia
+==================================================
+
+I. Mod description
+==================================================
+This mod is a derivative project designed to provide a "middle ground" for Digimon Story: Cyber Sleuth Complete Edition. While the original Un-Dub mods successfully fixed script errors, they also shifted all Digimon names and evolution stages to Japanese terms (e.g., Omegamon instead of Omnimon, Perfect instead of Ultimate).
+
+This mod restores the English Dub names and terminology used in the original game localization, ensuring consistency with other Western Digimon media. However, it retains (and expands upon) the massive dialogue fixes, typo corrections, and "undub" script improvements made by omegalucas and Maverynthia.
+
+Key restores include:
+- Digivolution stages (Rookie, Champion, Ultimate, Mega).
+- Name restores (Omnimon, Beelzemon, etc).
+- Terminology (DNA Digivolution, Digi-Eggs, and Digivolve).
+
+Some names and terms were kept as their Japanese version (e.g. Degenerate instead of De-Digivolve) while some were modified to be entirely different (Daemon instead of the Japanese "Demon" and the original game's "Creepymon").
+
+II. How to install
+==================================================
+- Locate your game installation directory (usually "SteamLibrary\steamapps\common\Digimon Story Cyber Sleuth Complete Edition\resources").
+
+- Back up these files: "DSDBS.steam.mvgl", "DSDBA.steam.mvgl" and "DSDBSP.steam.mvgl" into a separate folder. 
+
+- Copy "DSDBS.steam.mvgl" and "DSDBSP.steam.mvgl" from the game's "resources" folder into the "INPUT" folder of this mod.
+
+- Run the INSTALL.bat file.
+
+- Once the process is finished, take the newly generated "DSDBS.steam.mvgl" and "DSDBSP.steam.mvgl" files from the "OUTPUT" folder and move them back into your game's "resources" folder,   overwriting when prompted.
+
+- (Optional but Recommended) Delete or rename "DSDBA.steam.mvgl" in the resources folder to restore Sistermon Noir's model, as this mod restores her name and text references.
+
+III. Known issues
+==================================================
+- Existing Digimon in your party will keep their previous names as "nicknames." To fix this, go to the Digimon menu, select Settings, delete the name entirely, and press Enter to reset it to the new default.
+
+- Previously received Digi-Line messages will not update their text to reflect new names.
+
+- German language support is partial; while some names are updated via search/replace, they're not the primary focus of this mod.
+
+- DigiLab assets have not been swapped so it will still say "Digivolve/De-digivolve" instead of "Digivolve/Degenerate".
+
+IV. Credits & Sources
+==================================================
+- omegalucas: For the original Un-Dub Mod and foundational work.
+- Maverynthia: For the DCSUndubModMod and further dialogue refinements.
+- SydMontague: For MVGLTools.
+- Pherakki: For SimpleDSCSModManager.
+- Grindosaur (website): For Digimon and Item names, terminology.
+
+V. Links
+==================================================
+- MVGLTools (Current Repo): https://github.com/SydMontague/MVGLTools
+
+- The Un-Dub Mod v1.1 (by omegalucas): https://steamcommunity.com/sharedfiles/filedetails/?id=2111176551
+
+- DCSUndubModMod (by Maverynthia): https://github.com/Maverynthia/DCSUndubModMod
