@@ -7,9 +7,8 @@ This mod is a derivative work based on the [DCSUndubModMod](https://github.com/M
 The primary goal of this project is to maintain the dialogue corrections (and fix anything that was missed) and "undub" fixes established by those authors while restoring the official English dub names and terminology originally used in the game's localization. It acts as a middle ground for players who prefer the fixed scripts and bug fixes of the Undub projects but want the familiar English names for Digimon and digivolution stages. 
 
 ## Contents 
-This repository does not include .img files. To get those, check the Nexusmods link of this mod (link here).
+This repository does not include .img files. To get those, check the Nexusmods link of this mod ([link here](https://www.nexusmods.com/digimonstorycybersleuthcompleteedition/mods/23)).
 * **/CONTENT:** Contains the modified `.mbe` binary files.
-* **/CONTENT (Unpacked):** Contains the unpacked `.mbe` files in `.csv` format.
 * **/INPUT and /OUTPUT:** Empty folders used in the installation process. 
 * **INSTALL.bat:** The user-facing installation script.
  
@@ -18,7 +17,7 @@ This repository does not include .img files. To get those, check the Nexusmods l
 - MVGLTools by SydMontague. Link here: [MVGLTools](https://github.com/SydMontague/MVGLTools)
 - SimpleDSCSModManager (optional) by Pherakki. Link here: [SimpleDSCSModManager](https://github.com/Pherakki/SimpleDSCSModManager)
 
-SimpleDSCSModManager is optional. It provides a GUI to extract `.mbe` files for inspection and repack `.csv` files if needed.
+SimpleDSCSModManager is optional. It provides a GUI to extract `.mbe` files for inspection and repack the generated `.csv` files if needed.
 
 ## Installation
 
@@ -27,17 +26,10 @@ SimpleDSCSModManager is optional. It provides a GUI to extract `.mbe` files for 
 3. Navigate to the resources folder in your game installation directory (typically "\steamapps\common\Digimon Story Cyber Sleuth Complete Edition\resources").
 4. Make a backup of the DSDBS.steam.mvgl, DSDBA.steam.mvgl and DSDBSP.steam.mvgl files.
 5. Copy DSDBS.steam.mvgl and DSDBSP.steam.mvgl, and paste them in the INPUT folder in the mod folder.
-6. If you downloaded the image assets (.img) files from the Nexusmods link, put them in the "\CONTENT\DSDBS\images" directory in the mod folder.
+6. If you downloaded the image assets (.img) files from the Nexusmods link, put them in the "\CONTENT\DSDBS\images" folder in the main mod folder.
 7. Run INSTALL.bat.
 8. After the install process is completed, copy the generated files in the OUTPUT folder and paste them in the resources folder from before, overwrite if prompted.
 9. Delete or rename DSDBA.steam.mvgl to get the uncensored Sistermon Noir game model (optional but highly recommended, dialogue and text has been changed to reference Sistermon Noir instead of Sistermon Ciel).
-
-To pack the `.csv` files manually and use them in the installation process instead (before starting the INSTALL.bat script):
-1. Download and run SimpleDSCSModManager.
-2. Navigate to the "Extract" tab in the right panel.
-3. Click "Pack MBEs".
-4. Browse to and select the message folder in "\CONTENT (Unpacked)\DSDBS", then do the same with the text folder. Repeat for the "\CONTENT (Unpacked)\DSDBSP" folder.
-5. Copy the DSDBS and DSDBSP folders in CONTENT (Unpacked) and paste them in CONTENT. Overwrite if necessary. 
 
 ## Credits 
 
