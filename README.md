@@ -9,6 +9,7 @@ The primary goal of this project is to maintain the dialogue corrections (and fi
 ## Contents 
 This repository does not include .img files. To get those, check the Nexusmods link of this mod ([link here](https://www.nexusmods.com/digimonstorycybersleuthcompleteedition/mods/23)).
 * **/CONTENT:** Contains the modified `.mbe` binary files.
+* * **/CONTENT (Unpacked):** Contains the unpacked `.csv` version of the `.mbe` files.
 * **/INPUT and /OUTPUT:** Empty folders used in the installation process. 
 * **INSTALL.bat:** The user-facing installation script.
  
