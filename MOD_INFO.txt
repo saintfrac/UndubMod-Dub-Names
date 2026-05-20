@@ -1,4 +1,4 @@
-The Undub Mod (Dub Names) v1.0 by saintfrac
+The Undub Mod (Dub Names) v1.1 by saintfrac
 
 ==================================================
 Based on the Un-Dub Mod by omegalucas and DCSUndubModMod by Maverynthia
@@ -15,7 +15,7 @@ Key restores include:
 - Name restores (Omnimon, Beelzemon, etc).
 - Terminology (DNA Digivolution, Digi-Eggs, and Digivolve).
 
-Some names and terms were kept as their Japanese version (e.g. Degenerate instead of De-Digivolve) while some were modified to be entirely different (Daemon instead of the Japanese "Demon" and the original game's "Creepymon").
+Some names and terms were kept as their Japanese version (e.g. Degenerate instead of De-Digivolve) while some were modified to be entirely different (Daemon instead of the Japanese "Demon" and the original game's "Creepymon"). This mod is also not a "localization fix" mod where the original English translations are changed, aside from glaring mistranslations or grammatical issues.
 
 II. How to install
 ==================================================
@@ -23,11 +23,15 @@ II. How to install
 
 - Back up these files: "DSDBS.steam.mvgl", "DSDBA.steam.mvgl" and "DSDBSP.steam.mvgl" into a separate folder. 
 
+- Download and extract MVGLTools (on Github). You can Google it or click on the link on the Nexusmods description page for this mod under the installation section.
+
+- Copy MVGLTools.exe and the structures folder from the MVGLTools folder to the mod folder.
+
 - Copy "DSDBS.steam.mvgl" and "DSDBSP.steam.mvgl" from the game's "resources" folder into the "INPUT" folder of this mod.
 
 - Run the INSTALL.bat file.
 
-- Once the process is finished, take the newly generated "DSDBS.steam.mvgl" and "DSDBSP.steam.mvgl" files from the "OUTPUT" folder and move them back into your game's "resources" folder,   overwriting when prompted.
+- Once the process is finished, take the newly generated "DSDBS.steam.mvgl" and "DSDBSP.steam.mvgl" files from the "OUTPUT" folder and move them back into your game's "resources" folder, overwriting when prompted.
 
 - (Optional but Recommended) Delete or rename "DSDBA.steam.mvgl" in the resources folder to restore Sistermon Noir's model, as this mod restores her name and text references.
 
@@ -41,6 +45,8 @@ III. Known issues
 
 - DigiLab assets have not been swapped so it will still say "Digivolve/De-digivolve" instead of "Digivolve/Degenerate".
 
+- Attack and support skill names have not been changed back to their English names.
+
 IV. Credits & Sources
 ==================================================
 - omegalucas: For the original Un-Dub Mod and foundational work.
@@ -49,10 +55,3 @@ IV. Credits & Sources
 - Pherakki: For SimpleDSCSModManager.
 - Grindosaur (website): For Digimon and Item names, terminology.
 
-V. Links
-==================================================
-- MVGLTools (Current Repo): https://github.com/SydMontague/MVGLTools
-
-- The Un-Dub Mod v1.1 (by omegalucas): https://steamcommunity.com/sharedfiles/filedetails/?id=2111176551
-
-- DCSUndubModMod (by Maverynthia): https://github.com/Maverynthia/DCSUndubModMod

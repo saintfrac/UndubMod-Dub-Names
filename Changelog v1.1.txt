@@ -1,0 +1,73 @@
+The Undub Mod (Dub Names) changelog
+========================================
+Changelog v1.1
+========================================
+
+=====================
+Changed Dialogue
+=====================
+Instances of "Evolution"/"Evolving" I missed were changed to Digivolution/Digivolving
+
+- Hey, is she doing all right? She looks pretty tired -> Hey, is he doing all right? He looks pretty tired (Incorrect pronouns)
+- A human just bumped into my bag -> A human just hit me with a bag! (Incorrect translation)
+- this kid really wants to eat something delicious -> these kids really want to eat something delicious (Incorrect translation)
+- The Zaxons challenged the Under Zeros! -> The Zaxons challenged the Under Zero area! (Incorrect translation, dialogue makes it sound like the Under Zeros are a hacker team)
+- It may have been one one of the mes from a parallel world -> It may have been one of the mes from a parallel world (Removed the repeated instance of the word 'one')
+- You're stories I mean! -> Your stories I mean!
+
+=====================
+Changed Item Names
+=====================
+Item names have small changes made by the original mod authors. Most of them are close enough to their English names so I've decided to leave them as is.
+- Guard Apple -> Aegis Apple
+- Intelligent Carrot -> Clever Carrot
+- Boost Banana -> Accel Banana
+
+========================================
+Changelog v1.0
+========================================
+
+=====================
+Changed Digimon Names
+=====================
+Every digimon has been reverted to their original in-game Dub name EXCEPT the following:
+
+- Kerpymon (Good) / (Blk) -> Cherubimon (Good) / (Evil)
+- Argomon -> Algomon
+- Creepymon -> Daemon
+- Kurisarimon -> Chrysalimon
+- Diaboromon -> Diablomon
+- Lotosmon -> Lotusmon
+- Socerimon -> Sorcerimon
+- Dragomon -> Dagomon
+- Merukimon -> Mercurymon
+- Sistermon Ciel -> Sistermon Noir
+- GroundLocomon -> GrandLocomon
+- Bao/Savior/Huckmon -> Bao/Savior/Hackmon
+- Lucemon Rival -> Lucemon Larva
+- MedicalGallantmon -> MedievalGallantmon
+- DoruGreymon -> Doruguremon
+
+some name typos were fixed (Aguman Expert -> Agumon Expert)
+
+=====================
+Changed Dialogue
+=====================
+Dialogue has been changed to represent the dub names of Digimon, and dub terms (digivolve instead of evolve etc). Other fixes/changes:
+- their alive, but unresponsive -> they're alive, but unresponsive
+- Rebellions -> Rebels
+some typos were fixed. 
+
+=====================
+Changed Terms
+=====================
+Digimon stages, terms and mechanic names were changed to their dub names with the exception of Xros and Degenerate.
+- Adult -> Champion
+- Perfect -> Ultimate
+- Ultimate -> Mega
+- Child -> Rookie
+- Baby I & II -> Training / In-training I & II
+- Evolution -> Digivolution
+- Evolve(s) / Evolved -> Digivolve(s) / Digivolved
+- Jogress -> DNA
+- Digimental -> Digi-egg
