@@ -22,9 +22,9 @@ SimpleDSCSModManager is optional. It provides a GUI to extract `.mbe` files for 
 
 ## Installation
 
-1. Download and extract MVGLTools and this mod.
+1. Download and extract MVGLTools and this mod's latest release.
 2. Copy and paste MVGLToolsCLI.exe and the structures folder into the mod folder.
-3. Navigate to the resources folder in your game installation directory (typically "\steamapps\common\Digimon Story Cyber Sleuth Complete Edition\resources").
+3. Navigate to the resources folder in your game installation directory (typically "[Steam Directory]\Digimon Story Cyber Sleuth Complete Edition\resources").
 4. Make a backup of the DSDBS.steam.mvgl, DSDBA.steam.mvgl and DSDBSP.steam.mvgl files.
 5. Copy DSDBS.steam.mvgl and DSDBSP.steam.mvgl, and paste them in the INPUT folder in the mod folder.
 6. If you downloaded the image assets (.img) files from the Nexusmods link, put them in the "\CONTENT\DSDBS\images" folder in the main mod folder.
