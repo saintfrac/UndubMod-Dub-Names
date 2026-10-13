@@ -1,5 +1,26 @@
 The Undub Mod (Dub Names) changelog
 ========================================
+SPOILER WARNING: There might be story-related spoilers in the "Changed Dialogue" section
+========================================
+Changelog v1.2
+========================================
+
+=====================
+Changed Dialogue
+=====================
+Multiple grammatical issues fixed. Some eggregious mistranslations fixed, such as:
+- I am Shiga. The one you're looking for -> ...Shiga, it's me. There's someone looking for you. (It's another hacker talking to Shiga, not Shiga himself)
+- Kamishiro has ordered us to tighten up the building's security. People do whatever she says. She's a remarkable woman. -> Kamishiro has ordered us to tighten up the building's security. Exerting that kind of power... Leave it to the mighty Kamishiro Enterprises. (The Chinese / Korean text has them talking about Kamishiro the company's power, the translations seem to have mistaken Kamishiro with the character Kishibe)
+- Erika said she'll meet Wormmon at the Demons' Den. I'll head right over there. -> Erika said Wormmon will meet me at the Demons' Den. I'll head right over there. (Mistranslation)
+
+=====================
+Changed Digimon Names
+=====================
+Fixed instances of:
+- WarGrowlmon being referred to as "SkullGrowlmon"
+- Chuumon being referred to as "Tyumon"
+
+========================================
 Changelog v1.1
 ========================================
 
